@@ -16,3 +16,5 @@ Cursos
 [Flexboxadventure](https://codingfantasy.com/games/flexboxadventure)
 
 [StorySet](https://storyset.com/)  imagens para utilizar em projetos
+
+[Paleta de cores] (https://coolors.co/)
